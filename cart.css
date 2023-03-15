@@ -1,0 +1,33 @@
+.shopping-cart{
+    top:100%;
+    border: 1px solid;
+    border-radius: 2.5px;
+    padding: 10px ;
+    box-shadow: #1f1f03;
+    width: 280px;
+    background-color: white;
+}
+.box{
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    border-radius: 3.5px;
+    padding: 7px;
+    margin: 12px;
+}
+.material-icons{
+    cursor: pointer;
+}
+.Total{
+    font-size: 25px;
+    font-weight: bold;
+    padding: 1rem 0;    
+}
+.Button{
+    border: 1px solid;
+    border-radius: 3.5px;
+    margin-top: 1rem;
+    display: inline-block;
+    padding: 0.8rem 2rem;
+    font-size: 1.5rem
+}
